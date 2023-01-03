@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db421dbe-4c7c-4c2d-9dcc-ce6b25ed61ef" name="Changes" comment="" />
+    <list default="true" id="db421dbe-4c7c-4c2d-9dcc-ce6b25ed61ef" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +17,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -75,7 +82,7 @@
       <updated>1672408413235</updated>
       <workItem from="1672408415504" duration="5251000" />
       <workItem from="1672416217257" duration="53000" />
-      <workItem from="1672774495062" duration="665000" />
+      <workItem from="1672774495062" duration="913000" />
     </task>
     <servers />
   </component>
